@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">coordinator_home</string>
+    <string name="payload">
+		hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop
+		 hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop
+		 hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop
+		 hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop
+		 hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop
+		 hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop
+		 hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop
+		 hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop hop
+	</string>
+    <string name="task_1">Task №1</string>
+    <string name="task_2">Task №2</string>
+</resources>
